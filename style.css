@@ -1,0 +1,16 @@
+
+.container{
+    margin: 10px;
+  border: 1px solid black;
+  padding: 40px;
+  background-color: #4e4e4e;
+}
+
+.form-cointainer{
+  margin: 10px;
+  padding: 100px;
+  border: 1px solid black;
+}
+.stream-yard{
+  text-decoration: none;
+}
